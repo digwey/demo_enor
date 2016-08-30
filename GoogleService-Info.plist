@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>770063115148-m7gnf91u008jgjj86et7lh4jkq0ilq8o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.770063115148-m7gnf91u008jgjj86et7lh4jkq0ilq8o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCj5EPn9F6IMFwOL_7IyQtR8c0_S0Z_lA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>sender_id</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enor.devlopmentplan</string>
+	<key>PROJECT_ID</key>
+	<string>enor-development-plan</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enor-development-plan.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:770063115148:ios:b3f010d08fa319fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://enor-development-plan.firebaseio.com</string>
+</dict>
+</plist>
